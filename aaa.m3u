@@ -1,0 +1,155 @@
+#EXTM3U
+#EXTNAME:
+
+#EXTINF:5,EBS2
+#EXTTV:교육;kor;
+rtp://@239.192.42.2:49220
+
+#EXTINF:9,YTN
+#EXTTV:뉴스/경제;;
+rtp://@239.192.47.7:49220
+
+#EXTINF:65,Screen
+#EXTTV:영화;;
+rtp://@239.192.62.51:49220
+
+#EXTINF:66,Cinef
+#EXTTV:영화;;
+rtp://@239.192.62.52:49220
+
+#EXTINF:67,ApleDrama
+#EXTTV:드라마;;
+rtp://@239.192.62.60:49220
+
+#EXTINF:68,시네마천국
+#EXTTV:영화;;
+rtp://@239.192.62.58:49220
+
+#EXTINF:69,E LIKE
+#EXTTV:연애/오락;;
+rtp://@239.192.62.59:49220
+
+#EXTINF:70,JTBC4
+#EXTTV:연애/오락;;
+rtp://@239.192.62.64:49220
+
+#EXTINF:71,더라이프2
+#EXTTV:연애/오락;;
+rtp://@239.192.62.80:49220
+
+#EXTINF:72,더라이프
+#EXTTV:연애/오락;;
+rtp://@239.192.62.81:49220
+
+#EXTINF:73,OBS
+#EXTTV:지상파/종편;kor;
+rtp://@239.192.62.82:49220
+
+#EXTINF:74,SPOTV Prime+
+#EXTTV:스포츠/레저;;
+rtp://@239.192.62.83:49220
+
+#EXTINF:75,SPOTV Prime
+#EXTTV:스포츠/레저;;
+rtp://@239.192.62.84:49220
+
+#EXTINF:76,SPOTV Prime+2
+#EXTTV:스포츠/레저;;
+rtp://@239.192.62.85:49220
+
+#EXTINF:122,AI Btv (a)
+#EXTTV:자체채널;;
+rtp://@239.192.67.34:49220
+
+#EXTINF:123,AI Btv (b)
+#EXTTV:자체채널;;
+rtp://@239.192.67.35:49220
+
+#EXTINF:124,알수없는성인방송
+#EXTTV:자체채널;;
+udp://@239.192.67.42:49220
+
+#EXTINF:127,KBS2
+#EXTTV:지상파/종편;;
+udp://@239.192.67.99:49220
+
+#EXTINF:128,SBS
+#EXTTV:지상파/종편;;
+udp://@239.192.67.98:49220
+
+#EXTINF:129,MBC
+#EXTTV:지상파/종편;;
+udp://@239.192.67.101:49220
+
+#EXTINF:130,KBS1
+#EXTTV:지상파/종편;;
+udp://@239.192.67.100:49220
+
+#EXTINF:131,SBS Sports
+#EXTTV:스포츠/레저;;
+udp://@239.192.67.130:49220
+
+#EXTINF:132,MBC Sports+
+#EXTTV:스포츠/레저;;
+udp://@239.192.67.131:49220
+
+#EXTINF:133,KBSN 스포츠
+#EXTTV:스포츠/레저;;
+udp://@239.192.67.132:49220
+
+#EXTINF:134,SPOTV
+#EXTTV:스포츠/레저;;
+udp://@239.192.67.133:49220
+
+#EXTINF:135,SPOTV2
+#EXTTV:스포츠/레저;;
+udp://@239.192.67.162:49220
+
+#EXTINF:136,SPOTV Golf&Health
+#EXTTV:스포츠/레저;;
+udp://@239.192.67.163:49220
+
+#EXTINF:137,SBS GOLF
+#EXTTV:스포츠/레저;;
+udp://@239.192.67.164:49220
+
+#EXTINF:138,JTBC GOLF
+#EXTTV:스포츠/레저;;
+udp://@239.192.67.165:49220
+
+#EXTINF:143,OCN
+#EXTTV:영화;;
+udp://@239.192.67.226:49220
+
+#EXTINF:144,OCN Movies
+#EXTTV:영화;;
+udp://@239.192.67.227:49220
+
+#EXTINF:145,OCN Movies2
+#EXTTV:영화;;
+udp://@239.192.67.228:49220
+
+#EXTINF:146,Screen
+#EXTTV:영화;;
+udp://@239.192.67.229:49220
+
+#EXTINF:343,4채널(SBS Sports)
+#EXTTV:스포츠/레저;kor;
+udp://@239.192.81.3:49220
+
+#EXTINF:344,4채널(SPOTV2)
+#EXTTV:스포츠/레저;kor;
+udp://@239.192.81.4:49220
+
+#EXTINF:345,4채널(KBS2)
+#EXTTV:지상파/종편;kor;
+udp://@239.192.81.5:49220
+
+#EXTINF:366,OGN
+#EXTTV:스포츠;;
+rtp://@239.192.81.109:49220
+
+#EXTINF:435,KBS1 (소리없음)
+#EXTTV:지상파/종편;kor;
+rtp://@239.192.150.105:49220
+

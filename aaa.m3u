@@ -3,7 +3,7 @@
 
 #EXTINF:5,EBS2
 #EXTTV:교육;kor;
-udp://@239.192.42.2:49220
+rtp://@239.192.42.2:49220/EBS2
 
 #EXTINF:9,YTN
 #EXTTV:뉴스/경제;;
